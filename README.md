@@ -14,4 +14,7 @@ Slides and example code on the course Angular Fundamentals - February 2021.
 - Testing basics - introduction blog: https://medium.com/javascript-in-plain-english/unit-testing-in-angular-basics-part-1-329304813dc3
 - More extensive blog: https://www.digitalocean.com/community/tutorials/testing-angular-with-jasmine-and-karma-part-1
 
+## Angular vs. Vue vs. React
+- https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
+
 Questions? Email me at info@kassenaar.com
