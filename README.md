@@ -17,4 +17,9 @@ Slides and example code on the course Angular Fundamentals - February 2021.
 ## Angular vs. Vue vs. React
 - https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
 
+## Publishing your Angular application
+- Develop and test locally with `ng serve`
+- Create a production build with `ng build --prod`
+- Upload the contents of the `\dist\` folder to - for instance - Netlify: https://www.netlify.com/ (but there are a *ton* of other free hosting options available, such as Azure, AWS, Github Pages, Heroku, Firebase, and more).
+
 Questions? Email me at info@kassenaar.com
